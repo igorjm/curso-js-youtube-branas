@@ -1,0 +1,17 @@
+# A linguagem JavaScript é interpretada;
+# Possui orientações a objetos baseada em protótipos, não possuindo classes;
+# A linguagem possui uma tipagem fraca e dinâmica;
+# Além disso, possui funções de primeira classe;
+# A linguagem não apresenta suporte a programação multi-thread;
+
+Variáveis:
+# Devem começar por uma letra, $ ou _;
+# Após a primeira letra, podem conter números;
+# Pela convenção, começam com letra minúscula e usam camelCase;
+# São case-sensitive;
+
+Só existe um tipo numérico na liguagem e ele tem as seguintes características:
+# IEEE-754 (Standard for Floating-Point);
+# binary64 ou Double Precision;
+# Cuidado com as exceções;
+
