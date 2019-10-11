@@ -15,4 +15,16 @@ nota.toPrecision(1); // 1e+1
 nota.toString(); // "10"
 nota.valueOf(); // 10
 
+0.1 + 0.2; // 0.300000000004
+3 / 0; // Infinity
+"AgileCode" * 10; // NaN
+
 /** Strings */
+var nome = "AgileCode";
+
+nome.charAt(2); // "i"
+nome.charCodeAt(0); // 65
+nome.concat("!"); // "AgileCode"
+nome.indexOf('e'); // 4
+nome.replace('Code', '!'); // "Agile!"
+nome.split('e'); // ['Agil', 'Cod', ''];

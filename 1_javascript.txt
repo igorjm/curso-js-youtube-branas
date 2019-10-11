@@ -15,3 +15,35 @@ Só existe um tipo numérico na liguagem e ele tem as seguintes características
 # binary64 ou Double Precision;
 # Cuidado com as exceções;
 
+Math API:
+- Similar a classe Math da linguagem Java
+
+# Math.abs - Valor absoluto do número;
+# Math.floor - Valor inteiro do número;
+# Math.log - Logar[itmo natural do número (base E);
+# Math.min - Retorna o menor número;
+# Math.max - Retorna o maior número;
+# Math.pow - Potência do número;
+# Math.random - Gera um número randômico;
+# Math.round - Arredonda o número para o inteiro mais próximo;
+# Math.sin - Seno do número;
+# Math.sqrt - Raiz quadrada do número;
+# Math.tan - Tangente do número;
+
+String API:
+# String.charAt - Retorna o char da posição;
+# String.charCodeAt - Retorna o código do char da posição;
+# String.concat - Concatena duas strings;
+# String.indexOf - Retorna o índice da primeira ocorrência do char;
+# String.lastIndexOf - Retorna o índice da última ocorrência do char;
+# String.length - Retorna o tamanho da String;
+# String.match - Retorna um array resultante de busca com RegExp;
+# String.replace - Substitui parte da String por outra;
+# String.search - Retorna a posição da String ou RegExp;
+# String.split - Divide a String com base na expressão regular informada;
+# String.substring - Extrai a parte da String desejada;
+# String.toLowerCase - Gera uma nova String em letra minúscula;
+# String.toUpperCase - Gera uma nova String em letra maiúscula;
+# String.trim - Remove os espaços em branco do início e do fim da String;
+# String.valueOf - Retorna o valor primitivo da String;
+
